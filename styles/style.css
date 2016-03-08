@@ -1,31 +1,31 @@
 
-body{
+body {
     background: #3E4747;
     overflow: auto;
 }
-#wrapper{
+main {
   background: #666666;
   width: 800px;
   height: 490px;
   margin: 50px auto;
   overflow: auto;
 }
-#header{
+header {
   height: 75px;
   background: #FF3333;
   padding: 15px;
   color: white;
 }
-#header h1{
+header h1 {
   text-align: center;
 }
-#content{
+article {
   background-color: #FFFFFF;
   width: auto;
   height: 300px;
   padding: 15px;
 }
-#nav {
+nav {
   float: left;
   width: auto;
   height: 300px;
@@ -33,7 +33,7 @@ body{
   background-color: #0f90a2;
   margin-right: 20px;
 }
-#footer{
+footer {
   height: auto;
   text-align: center;
 }
